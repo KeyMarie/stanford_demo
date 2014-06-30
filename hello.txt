@@ -1,3 +1,4 @@
 aloha
 ciao
 hola
+bon giorno
